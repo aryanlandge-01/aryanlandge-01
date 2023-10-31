@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryanlandge-02
-- 👀 I’m interested in IoT
-- 🌱 I’m currently learning Embedded-C, C++
+- 👀 I’m interested in Front-end Development
+- 🌱 I’m currently learning HTML, CSS, JavaScript,React
 - 📫 How to reach me landgearyan0@gmail.com
 
 <!---
