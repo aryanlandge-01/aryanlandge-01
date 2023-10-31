@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aryanlandge-01
+- 👋 Hi, I’m @aryanlandge-02
 - 👀 I’m interested in IoT
 - 🌱 I’m currently learning Embedded-C, C++
 - 📫 How to reach me landgearyan0@gmail.com
