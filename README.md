@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aryanlandge-02
-- 👀 I’m interested in Front-end Development
+- 👋 Hi, I’m @aryanlandge-01
+- 👀 I’m interested in Web Develpement
 - 🌱 I’m currently learning HTML, CSS, JavaScript,React
 - 📫 How to reach me landgearyan0@gmail.com
 
